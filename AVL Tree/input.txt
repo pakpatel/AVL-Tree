@@ -1,0 +1,4 @@
+Mercedes	German car
+Ford	American car
+Audi	German car with a long description
+Acura	Japenese and starts with A
